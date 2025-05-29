@@ -1,4 +1,4 @@
-# Bilk_IP
+# Bulk_IP
 Bulk IP Address Lookup
 pip install pyinstaller
 pip install selenium
